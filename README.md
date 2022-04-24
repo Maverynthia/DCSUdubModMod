@@ -24,3 +24,7 @@ Pyokomon → No 'C' in Japanese
 Huckmon → Hackmon is an Appmon and it's Hakkumon otherwise. Huck makes no sense.   
 Bubbmon → Babumon. This is because 'babu' is also a pun. "Ba-bburu" being bubble (the bubbles coming off of it) and 'babu' being a sound babies make, thus the pacifier   
 Goblimon → It's meant to be Gobli as in Goblin.
+<hr>
+<b>What to do with this?</b> 
+
+Unzip and move the /text directory into the CONTENT directory of the Undub. Overwrite.  
