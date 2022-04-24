@@ -27,4 +27,4 @@ Goblimon → It's meant to be Gobli as in Goblin.
 <hr>
 <b>What to do with this?</b> 
 
-Unzip and move the /text directory into the CONTENT directory of the Undub. Overwrite.  
+Unzip and move to DSDBS/text directory that's in CONTENT of the Undub. Overwrite.  
