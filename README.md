@@ -10,7 +10,7 @@ Gerbemon → Garbemon
 Pyocomon → Pyokomon  
 Huckmon → Hakkumon (and all veriants)  
 Bubbmon → Babumon  
-Goburimon → Goblimon
+Goburimon → Goblimon  
 Scumon → Scamon  
 
 Corrected the Devimon Digiline question:  
