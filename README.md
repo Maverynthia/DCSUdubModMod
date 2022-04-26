@@ -17,9 +17,9 @@ Corrected the Devimon Digiline question:
 Mind controlled → Mind controlling  
 
 Corrected some typos in messages:  
-She's Unresponsive → Their Unresponsive
-animus → anime
-waifus → anime wives
+She's Unresponsive → Their Unresponsive  
+animus → anime  
+waifus → anime wives  
 huger → hunger  
 <hr>
 <b>Why?</b>  
