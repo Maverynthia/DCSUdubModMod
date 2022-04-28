@@ -51,6 +51,7 @@ Yuukochi → Before this, Nokia ia making nicknames for Yuuko and it was left, s
 Rebellions → Nokia usually uses the wrong English when speaking thus Rebellions and not Rebels.  
 <hr>
 <b>Other</b>  
+
 There was a part in the Jimiken storyline that was ommited in English. The Korean however has the two extra bands that she mentions and were added.  
 <hr>
 <b>What to do with this?</b> 
